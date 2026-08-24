@@ -1,5 +1,6 @@
 # YOOOOH minna⚡ 
 BEM-VINDO(A) AO MEU GITHUB!
+
 Prazer! Me chamo **Ismael da Silva Rodrigues** 👋
 
 - 🎓 Estudante de **Bacharelado em Ciência da Computação** na **Cruzeiro do Sul**, atualmente no 1º semestre.

@@ -6,9 +6,9 @@ Prazer! Me chamo **Ismael da Silva Rodrigues** 👋
 - 🎓 Estudante de **Bacharelado em Ciência da Computação** na **Cruzeiro do Sul**, atualmente no 1º semestre.
 - 📜 Concluí o curso **ProProfissão**, do **Instituto Proa**.
 - 🚀 Estudando e me aprofundando em **Front-End**, **Back-End** e lógica de programação.
-- 🤖 Grande interesse em **Inteligência Artificial** — é uma das áreas com as quais mais quero trabalhar no futuro.
+- 🤖 Apaixonado em **Inteligência Artificial!** É uma das áreas com as quais mais quero trabalhar no futuro.
 - 💻 Sempre em busca de aprender novas tecnologias e evoluir como desenvolvedor.
-- 🌱 Em constante aprendizado — todo projeto aqui é um passo a mais na jornada!
+- 🌱 Em constante aprendizado! Todo projeto aqui é um passo a mais na jornada!
 
 ---
 
